@@ -1,0 +1,19 @@
+Listings for Mario-Charles COMP - 8005 Assignment 2
+
+This version contains revised tests as the last ones falled into
+the same issue as the paper.
+
+File					Description
+
+Assignment Report-------Contains the project documentation
+client------------------Executable Client
+epoll-------------------Executable epoll server
+select------------------Executable select server
+threaded----------------Executable multi-threaded server
+client.c----------------C client file
+epoll.c-----------------C epoll file single process
+select.c----------------C select file single process
+epollv2.c-----------------C epoll file multiple process
+selectv2.c----------------C select file multiple process
+threaded.c--------------C threaded file
+Listings----------------This document, lists of the project components
